@@ -1,0 +1,22 @@
+<html>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <nav>
+    <ul>
+      <li> 
+        <a href="#aboutMe"> About Me </a>
+      </li>
+      <li> 
+        <a href="myWork"> My Work </a>
+      </li>
+      <li> 
+        <a href="otherThanCoding"> Other Than Coding </a>
+      </li>
+    </ul>
+  </nav>
+<body>
+    <p1>
+        Hello Internet, My name is Brodey Briggs.
+    </p1>
+</body>
+
+</html>
