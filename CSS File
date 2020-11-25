@@ -1,18 +1,41 @@
-nav{
-  width: 100vw;
-  background-color:dimgrey
+nav {
+    width: 100vw;
+    background-color: dimgrey;
 }
-li{
-  list-style-type: none;
-  display: inline; /*displays them in a row*/
-  margin: 0 2vw;
+
+li {
+    list-style-type: none;
+    margin: 0 2vw;
+    font-size: 3vh;
 }
-ul{
-  margin: 0;
-  padding: 0;
+
+ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    /*displays them in a row*/
 }
-body{
-  margin: 0;
+
+body {
+    background-color: dimgray;
+    margin: 0;
 }
-a {text-decoration: none;
+
+a:hover {
+    color: black;
+    background-color: darkgray;
+    text-decoration: none;
+    padding: 0vw;
+}
+
+a:link {
+    color: orange;
+}
+
+a:visited {
+    color: orange;
+}
+
+p1 {
+    font-size: 22px;
 }
