@@ -6,15 +6,20 @@
 </head>
 
 <body>
-    <nav>
-        <ul>
-            <li><a href="#aboutMe"> About Me </a></li>
-            <li><a href="myWork"> My Work </a></li>
-            <li><a href="otherThanCoding"> Other Than Coding </a></li>
-        </ul>
-    </nav>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#aboutMe"> About Me </a></li>
+                <li><a href="https://github.com/Apclassic"> My Work </a></li>
+                <li><a href="otherThanCoding"> Other Than Coding </a></li>
+            </ul>
+        </nav>
 
+    </header>
 </body>
-<p1>Hello my name is Brodey and this is my showcase website!</p1>
+<div class="w3-container">
+    <h1>HELLO!</h1>
+    <div>My name is Brodey and this is my showcase website!</div>
+</div>
 
 </html>
