@@ -16,10 +16,12 @@
         </nav>
 
     </header>
+
+
+    <div id="top_container">
+        <h1>HELLO!</h1>
+        <div>My name is Brodey and this is my showcase website!</div>
+    </div>
 </body>
-<div class="w3-container">
-    <h1>HELLO!</h1>
-    <div>My name is Brodey and this is my showcase website!</div>
-</div>
 
 </html>
