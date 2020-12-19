@@ -8,17 +8,17 @@
 <body>
     <header>
         <nav>
-            <ul>
-                <li><a href="#aboutMe"> About Me </a></li>
-                <li><a href="https://github.com/Apclassic"> My Work </a></li>
-                <li><a href="otherThanCoding"> Other Than Coding </a></li>
-            </ul>
+
+            <a href="#aboutMe"> About Me </a>
+            <a href="https://github.com/Apclassic"> Github </a>
+            <a href="otherThanCoding"> Other Than Coding </a>
+
         </nav>
 
     </header>
-
-
+    <hr></hr>
     <div id="top_container">
+
         <h1>HELLO!</h1>
         <div>My name is Brodey and this is my showcase website!</div>
     </div>
