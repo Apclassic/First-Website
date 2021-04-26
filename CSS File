@@ -1,41 +1,47 @@
-html {
-    display: block;
-}
-
 header {
     text-align: right;
-    padding-bottom: 5 px;
-    border-bottom: 1 px solid rgb(10, 174, 185);
+    padding-bottom: 25px;
+    border-bottom: 1px solid #ccc;
+    margin-top: 10px;
 }
 
-ul {
-    float: right;
-}
-
-li {
-    display: inline-block;
-    list-style-type: none;
+nav {
+    display: block;
+    position: relative;
+    top: 0;
+    width: 100%;
 }
 
 nav a {
-    position: relative;
     margin-left: 10px;
+    float: right;
+    display: block;
     font-weight: normal;
     text-decoration: none;
-    color: rgb(10, 174, 185)
+    color: #f2a278;
+    text-align: center;
+}
+
+a:hover {
+    color: white;
 }
 
 body {
+    position: relative;
+    margin: 8px;
     font-family: Arial;
     color: dimgray;
     letter-spacing: 2px;
+    background: #153956;
+    overflow-y: scroll;
+    /*allows for scrolling*/
 }
 
 h1 {
     font-size: 90px;
-    color: rgb(10, 174, 185)
+    color: #f2a278;
 }
 
-#top_container {
-    margin: 20px 0 50px 50px;
+p {
+    font-size: 20px;
 }
