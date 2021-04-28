@@ -13,7 +13,7 @@
 
             <a href="#aboutMe"> About Me </a>
             <a href="https://github.com/Apclassic"> Github </a>
-            <a href="otherThanCoding"> Other Than Coding </a>
+            <a href="projects"> Projects </a>
 
         </nav>
 
@@ -38,5 +38,8 @@
     The are likely to focus on the text, disregarding the layout and its elements. Besides, random text risks to be unintendedly humorous or offensive, an unacceptable risk in corporate environments. Lorem ipsum and its many variants have been employed
     since the early 1960ies, and quite likely since the sixteenth century.
 </p>
+<iframe>
+    
+</iframe>
 
 </html>
