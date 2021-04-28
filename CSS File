@@ -40,6 +40,7 @@ body {
 h1 {
     font-size: 90px;
     color: #f2a278;
+    text-align: center;
 }
 
 p {
